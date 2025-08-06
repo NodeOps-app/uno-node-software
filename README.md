@@ -49,7 +49,7 @@ Make sure the user wallet **owns** or **is delegated** at least one license NFT 
 
 ---
 
-###🔍 How to Fetch a Wallet’s UNO NFTs
+### 🔍 How to Fetch a Wallet’s UNO NFTs
 
 You can use Alchemy’s NFT API to check which UNO licenses a wallet holds.
 
@@ -67,7 +67,7 @@ Replace placeholders:
 - <WALLET_ADDRESS> — The address to check
 - <UNO_CONTRACT_ADDRESS> — One of the supported license contracts (see table above)
 
-⸻
+---
 
 ### 🧠 NFT Contract ABI
 
